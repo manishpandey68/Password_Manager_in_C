@@ -36,8 +36,8 @@ To clone and build the password manager code, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   https://github.com/manishpandey68/Simple-Password-Manager-in-C
-   cd Simple-Password-Manager-in-C
+   https://github.com/manishpandey68/Password_Manager_in_C
+   cd Password_Manager_in_C
    ```
 
 2. **Build the Code:**
